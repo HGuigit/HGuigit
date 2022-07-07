@@ -1,5 +1,5 @@
 ## About me 🚀
-#### Hi there 👋, my name is Guilherme and I'm a computer science undergraduate at UNESP(Universidade Estadual Paulista) campus Rio Claro. I Started coding back in 2019 when I entered university, since then I have learned many new things that made me dive right through a lot of areas in programming. I'm mostly a self-studying programmer so I learned many things about areas like Software Enginering, Data science, Machine learning, Operating Systems and low-level programming. Right now I'm currently looking for a job as a software developer intern, so if you have some opportunity for me make sure to contact me ok? 😄
+#### Hi there 👋, my name is Guilherme and I'm a computer science undergraduate at UNESP(Universidade Estadual Paulista) campus Rio Claro. I Started coding back in 2019 when I entered university, since then I have learned many new things that made me dive right through a lot of areas in programming. I'm mostly a self-studying programmer so I learned many things about areas like Software Enginering, Data science, Machine learning, Operating Systems and low-level programming. Right now I'm currently looking for a job as a software developer intern, so if you have some opportunity make sure to contact me ok? 😄
 
 ## Tecnologies I have some experience with 💻
 
