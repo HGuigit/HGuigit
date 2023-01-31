@@ -10,7 +10,7 @@
 
 - ✉️ guilhermespsdev@gmail.com
 - ✉️ gsp.silva@unesp.br
-- 🔗 [LinkedIN](https://www.linkedin.com/in/guilherme-de-souza-98a11b1ba)
+- 🔗 [LinkedIN](https://www.linkedin.com/in/guilherme-souza-98a11b1ba)
 
 
 <!--
