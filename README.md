@@ -1,6 +1,8 @@
 ## About me 🚀
 #### Hi there 👋, my name is Guilherme and I'm a computer science undergraduate at UNESP(Universidade Estadual Paulista) campus Rio Claro. I Started coding back in 2019 when I entered university, since then I have learned many new things that made me dive right through a lot of areas in programming. I'm mostly a self-studying programmer so I learned many things about areas like Software Enginering, Data science, Machine learning, Operating Systems and low-level programming. Right now I'm currently looking for a job as a software developer intern, so if you have some opportunity make sure to contact me ok? 😄
 
+@ Software engineering Intern at ####Techno Software
+
 ## Tecnologies I have some experience with 💻
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 	![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
