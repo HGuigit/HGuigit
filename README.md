@@ -11,7 +11,6 @@
 ## How to reach me // Como me contatar:
 
 - ✉️ guilhermespsdev@gmail.com
-- ✉️ gsp.silva@unesp.br
 - 🔗 [LinkedIN](https://www.linkedin.com/in/guilherme-souza-hg/)
 
 
