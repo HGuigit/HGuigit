@@ -1,7 +1,7 @@
 ## About me 🚀
 #### Meu nome é Guilherme e desde 2019 sou um entusiasta do mundo da programação onde descobri minha paixão por esta área dinâmica e em constante mudança. Desde então tenho me dedicado a transformar conceitos inovadores em soluções prontas para o mercado. Possuo sólida formação em Ciência da Computação pela UNESP, concluída em 2023. Sigo carreira dedicada à Engenharia de Software, contando hoje com aproximadamente três anos de experiência prática. 😄
 
-####  Junior Software Engineer
+####  Mid-level Software Engineer
 
 ## Tecnologies I have some experience with  // Tecnologias que tenho alguma experiência 💻
 
